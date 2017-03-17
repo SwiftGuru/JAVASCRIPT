@@ -1,2 +1,2 @@
-# JAVASCRIPT
-This is some simple js code i was messing around with.
+# Random Code
+This is some random i was messing around with.
